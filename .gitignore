@@ -1,6 +1,4 @@
 .idea/
 __pycache__/
 .sql_app.db
-bin/
-include/
-lib/
+venv/
